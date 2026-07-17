@@ -80,11 +80,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "PT Aplikasi Solusi Integrasi — Solusi Teknologi Terintegrasi" },
       { name: "description", content: "PT Aplikasi Solusi Integrasi menyediakan layanan pengembangan aplikasi, integrasi sistem, dan konsultasi IT untuk bisnis Anda." },
       { name: "author", content: "PT Aplikasi Solusi Integrasi" },
-      { property: "og:title", content: "PT Aplikasi Solusi Integrasi" },
-      { property: "og:description", content: "Solusi teknologi terintegrasi untuk pertumbuhan bisnis Anda." },
+      { property: "og:title", content: "PT Aplikasi Solusi Integrasi — Solusi Teknologi Terintegrasi" },
+      { property: "og:description", content: "PT Aplikasi Solusi Integrasi menyediakan layanan pengembangan aplikasi, integrasi sistem, dan konsultasi IT untuk bisnis Anda." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "PT Aplikasi Solusi Integrasi — Solusi Teknologi Terintegrasi" },
+      { name: "twitter:description", content: "PT Aplikasi Solusi Integrasi menyediakan layanan pengembangan aplikasi, integrasi sistem, dan konsultasi IT untuk bisnis Anda." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7b5d869-a521-4a8c-a807-642f66eb51d8/id-preview-695c054d--0141f93b-f69d-4430-b7ad-2c2f1ea7d56f.lovable.app-1784292786945.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c7b5d869-a521-4a8c-a807-642f66eb51d8/id-preview-695c054d--0141f93b-f69d-4430-b7ad-2c2f1ea7d56f.lovable.app-1784292786945.png" },
     ],
     links: [
       {
